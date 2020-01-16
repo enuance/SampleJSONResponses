@@ -1,0 +1,22 @@
+[
+{
+    "name": "Steve Wozniak",
+    "age": 68,
+    "hobby": "Making Computers"
+},
+{
+    "name": "Steve Jobs",
+    "age": 63,
+    "hobby": "Selling Computers"
+},
+{
+    "name": "Bill Gates",
+    "age": 64,
+    "hobby": "Making Software"
+},
+{
+    "name": "Allen Turing",
+    "age": 100,
+    "hobby": "AI"
+}
+]
